@@ -1,2 +1,1 @@
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=digiator42&repo=digiator42%2FGritJira&theme=github_dark)](https://github.com/digiator42/GritJira)  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=digiator42&repo=digiator42%2FVocab-Tool&theme=github_dark)](https://github.com/digiator42/Vocab-Tool)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=digiator42&repo=digiator42%2FGritJira&theme=github_dark)](https://github.com/digiator42/GritJira) &nbsp;&nbsp;&nbsp; [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=digiator42&repo=digiator42%2FVocab-Tool&theme=github_dark)](https://github.com/digiator42/Vocab-Tool)
