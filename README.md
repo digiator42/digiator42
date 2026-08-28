@@ -1,14 +1,5 @@
 <div align="center">
 
-## 🏗️ Frameworks
-
-| | |
-|:---:|:---:|
-| [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=digiator42&repo=digiator42%2FGritShield&theme=github_dark)](https://github.com/digiator42/GritShield) | [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=digiator42&repo=digiator42%2FVelo&theme=github_dark)](https://github.com/digiator42/Velo) |
-| **GritShield** - Security-First Rust Framework | **Velo** - WASM Framework |
-
-<br>
-
 ## 📦 Applications
 
 <table align="center">
