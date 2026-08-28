@@ -1,7 +1,5 @@
 <div align="center">
 
-## 📦 Applications
-
 <table align="center">
 <tr>
 <td align="center" width="33%">
