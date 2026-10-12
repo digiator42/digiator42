@@ -1,5 +1,17 @@
 <div align="center">
 
+### 👋 Hi, I'm Ahmed
+<sub>Security-first software engineer</sub>
+
+I build tools where security is a design constraint, not a feature —
+**GritShield**, **Veloasm**, and the Grit ecosystem around them.
+
+</div>
+
+<br>
+
+<div align="center">
+
 <a href="https://github.com/digiator42/Vocab-Tool"><img src="./badges/vocab-tool.svg" width="250" alt="Vocab-Tool" /></a>
 <a href="https://github.com/digiator42/Vulnerable-Bottle-App"><img src="./badges/vulnerable-bottle-app.svg" width="250" alt="Vulnerable-Bottle-App" /></a>
 <a href="https://github.com/digiator42/E-Commerce-Lab"><img src="./badges/e-commerce-lab.svg" width="250" alt="E-Commerce-Lab" /></a>
@@ -18,6 +30,9 @@
 
 <div align="center">
 
+### 🍽️ The Grit ecosystem
+<sub>One repo, one command, every service — the GritShield product stack, orchestrated by <a href="https://github.com/digiator42/GritSoc">GritSoc</a>.</sub>
+<br>
 <a href="https://github.com/digiator42/GritJira"><img src="./badges/gritjira.svg" width="200" alt="GritJira" /></a>
 <br>
 <a href="https://github.com/digiator42/GritIRT"><img src="./badges/gritirt.svg" width="200" alt="GritIRT" /></a>
