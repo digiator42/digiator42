@@ -4,7 +4,7 @@
 <a href="https://github.com/digiator42/Vulnerable-Bottle-App"><img src="./badges/vulnerable-bottle-app.svg" width="250" alt="Vulnerable-Bottle-App" /></a>
 <a href="https://github.com/digiator42/E-Commerce-Lab"><img src="./badges/e-commerce-lab.svg" width="250" alt="E-Commerce-Lab" /></a>
 <br>
-<a href="https://github.com/digiator42/GritJira"><img src="./badges/gritjira.svg" width="250" alt="GritJira" /></a>
+<a href="https://github.com/digiator42/GritSoc"><img src="./badges/gritsoc.svg" width="250" alt="GritSoc" /></a>
 <a href="https://github.com/digiator42/ft_transcendence"><img src="./badges/ft-transcendence.svg" width="250" alt="ft_transcendence" /></a>
 <a href="https://github.com/digiator42/vulntrack"><img src="./badges/vulntrack.svg" width="250" alt="VulnTrack" /></a>
 <br>
