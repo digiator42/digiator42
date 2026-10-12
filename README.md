@@ -18,12 +18,12 @@
 
 <div align="center">
 
-<a href="https://github.com/digiator42/GritJira"><img src="./badges/gritjira.svg" width="150" alt="GritJira" /></a>
+<a href="https://github.com/digiator42/GritJira"><img src="./badges/gritjira.svg" width="200" alt="GritJira" /></a>
 <br>
-<a href="https://github.com/digiator42/GritIRT"><img src="./badges/gritirt.svg" width="150" alt="GritIRT" /></a>
+<a href="https://github.com/digiator42/GritIRT"><img src="./badges/gritirt.svg" width="200" alt="GritIRT" /></a>
 <a href="https://github.com/digiator42/GritShield"><img src="./badges/gritshield.svg" width="250" alt="GritShield" /></a>
-<a href="https://github.com/digiator42/LuxShield"><img src="./badges/luxshield.svg" width="150" alt="LuxShield" /></a>
+<a href="https://github.com/digiator42/LuxShield"><img src="./badges/luxshield.svg" width="200" alt="LuxShield" /></a>
 <br>
-<a href="https://github.com/digiator42/CyberFlow"><img src="./badges/cyberflow.svg" width="150" alt="CyberFlow" /></a>
+<a href="https://github.com/digiator42/CyberFlow"><img src="./badges/cyberflow.svg" width="200" alt="CyberFlow" /></a>
 
 </div>
