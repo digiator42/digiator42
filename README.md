@@ -1,66 +1,31 @@
 <div align="center">
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<b>📚 Vocab-Tool</b><br>
-<sub>German Learning Platform</sub><br>
-<a href="https://github.com/digiator42/Vocab-Tool">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=digiator42&repo=digiator42%2FVocab-Tool&theme=github_dark" width="380" />
-</a>
-</td>
-<td align="center" width="33%">
-<b>🧪 Vulnerable-Bottle-App</b><br>
-<sub>Security Education</sub><br>
-<a href="https://github.com/digiator42/Vulnerable-Bottle-App">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=digiator42&repo=digiator42%2FVulnerable-Bottle-App&theme=github_dark" width="380" />
-</a>
-</td>
-<td align="center" width="33%">
-<b>🛒 E-Commerce-Lab</b><br>
-<sub>Testing & Automation</sub><br>
-<a href="https://github.com/digiator42/E-Commerce-Lab">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=digiator42&repo=digiator42%2FE-Commerce-Lab&theme=github_dark" width="380" />
-</a>
-</td>
-</tr>
+<a href="https://github.com/digiator42/Vocab-Tool"><img src="./badges/vocab-tool.svg" width="180" alt="Vocab-Tool" /></a>
+<a href="https://github.com/digiator42/Vulnerable-Bottle-App"><img src="./badges/vulnerable-bottle-app.svg" width="180" alt="Vulnerable-Bottle-App" /></a>
+<a href="https://github.com/digiator42/E-Commerce-Lab"><img src="./badges/e-commerce-lab.svg" width="180" alt="E-Commerce-Lab" /></a>
+<br>
+<a href="https://github.com/digiator42/GritJira"><img src="./badges/gritjira.svg" width="180" alt="GritJira" /></a>
+<a href="https://github.com/digiator42/ft_transcendence"><img src="./badges/ft-transcendence.svg" width="180" alt="ft_transcendence" /></a>
+<a href="https://github.com/digiator42/vulntrack"><img src="./badges/vulntrack.svg" width="180" alt="VulnTrack" /></a>
+<br>
+<a href="https://github.com/digiator42/ft_irc"><img src="./badges/ft-irc.svg" width="180" alt="ft_irc" /></a>
+<a href="https://github.com/digiator42/inception"><img src="./badges/inception.svg" width="180" alt="Inception" /></a>
+<a href="https://github.com/digiator42/42minishell"><img src="./badges/minishell.svg" width="180" alt="42minishell" /></a>
 
-<tr>
-<td align="center"><b>🧑‍💼 GritJira</b><br><sub>Project Management Suite</sub><br>
-<a href="https://github.com/digiator42/GritJira">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=digiator42&repo=digiator42%2FGritJira&theme=github_dark" width="380" />
-</a>
-</td>
-<td align="center"><b>🎮 ft_transcendence</b><br><sub>Online Pong Game</sub><br>
-<a href="https://github.com/digiator42/ft_transcendence">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=digiator42&repo=digiator42%2Fft_transcendence&theme=github_dark" width="380" />
-</a>
-</td>
-<td align="center"><b>🛡️ VulnTrack</b><br><sub>Vulnerability Management</sub><br>
-<a href="https://github.com/digiator42/vulntrack">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=digiator42&repo=digiator42%2Fvulntrack&theme=github_dark" width="380" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td align="center"><b>💬 ft_irc</b><br><sub>IRC Server Implementation</sub><br>
-<a href="https://github.com/digiator42/ft_irc">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=digiator42&repo=digiator42%2Fft_irc&theme=github_dark" width="380" />
-</a>
-</td>
-<td align="center"><b>🏗️ Inception</b><br><sub>Project Description</sub><br>
-<a href="https://github.com/digiator42/inception">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=digiator42&repo=digiator42%2Finception&theme=github_dark" width="380" />
-</a>
-</td>
-<td align="center"><b>🐚 42minishell</b><br><sub>Unix Shell Implementation</sub><br>
-<a href="https://github.com/digiator42/42minishell">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=digiator42&repo=digiator42%2F42minishell&theme=github_dark" width="380" />
-</a>
-</td>
-</tr>
-</table>
+</div>
 
 <br>
+
+<div align="center">
+
+<h3>🍽️ Grit Ecosystem</h3>
+
+<a href="https://github.com/digiator42/GritJira"><img src="./badges/gritjira.svg" width="150" alt="GritJira" /></a>
+<br>
+<a href="https://github.com/digiator42/GritIRT"><img src="./badges/gritirt.svg" width="150" alt="GritIRT" /></a>
+<a href="https://github.com/digiator42/GritShield"><img src="./badges/gritshield.svg" width="200" alt="GritShield" /></a>
+<a href="https://github.com/digiator42/LuxShield"><img src="./badges/luxshield.svg" width="150" alt="LuxShield" /></a>
+<br>
+<a href="https://github.com/digiator42/CyberFlow"><img src="./badges/cyberflow.svg" width="150" alt="CyberFlow" /></a>
+
 </div>
