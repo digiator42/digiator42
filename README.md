@@ -18,11 +18,6 @@
 
 <div align="center">
 
-<h3>🍽️ Grit Ecosystem — Dining Philosophers</h3>
-<p><sub>GritShield at the center, four services around the table. Click any circle to open the repo.</sub></p>
-
-<img src="./badges/grit-philosophers.svg" width="960" alt="GritShield dining philosophers diagram" />
-
 <a href="https://github.com/digiator42/GritJira"><img src="./badges/gritjira.svg" width="150" alt="GritJira" /></a>
 <br>
 <a href="https://github.com/digiator42/GritIRT"><img src="./badges/gritirt.svg" width="150" alt="GritIRT" /></a>
