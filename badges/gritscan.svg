@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="220" viewBox="0 0 200 220" role="img" aria-label="GritScan - Attack Surface Scanner">
+  <a href="https://github.com/digiator42/GritScan" target="_blank" rel="noopener noreferrer" aria-label="Open the GritScan GitHub repository">
+    <circle cx="100" cy="80" r="68" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+    <circle cx="100" cy="80" r="43" fill="#0b1d2b" stroke="#1f6f8b" stroke-width="1.5"/>
+    <circle cx="100" cy="80" r="28" fill="none" stroke="#164e63" stroke-width="1.5"/>
+    <path d="M57 80h86M100 37v86M70 50l60 60M130 50 70 110" fill="none" stroke="#164e63" stroke-width="1"/>
+    <path d="M100 80 129 54a39 39 0 0 1 8 26z" fill="#22d3ee" opacity=".28"/>
+    <circle cx="100" cy="80" r="4" fill="#67e8f9"/>
+    <circle cx="122" cy="66" r="3" fill="#f97316"/>
+    <circle cx="84" cy="99" r="2.5" fill="#f97316"/>
+    <text x="100" y="175" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="bold" font-size="14" fill="#58a6ff">GritScan</text>
+    <text x="100" y="195" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Attack Surface Scanner</text>
+  </a>
+</svg>
