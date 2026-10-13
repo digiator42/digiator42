@@ -3,8 +3,7 @@
 ### 👋 Hi, I'm Ahmed
 <sub>Security-first software engineer</sub>
 
-I build tools where security is a design constraint, not a feature —
-**GritShield**, **Veloasm**, and the Grit ecosystem around them.
+I build tools where security is a design constraint, not a feature.
 
 </div>
 
