@@ -40,5 +40,6 @@ I build tools where security is a design constraint, not a feature —
 <a href="https://github.com/digiator42/LuxShield"><img src="./badges/luxshield.svg" width="200" alt="LuxShield" /></a>
 <br>
 <a href="https://github.com/digiator42/CyberFlow"><img src="./badges/cyberflow.svg" width="200" alt="CyberFlow" /></a>
+<a href="https://github.com/digiator42/admin-command-center"><img src="./badges/admin-command-center.svg" width="200" alt="CyberFlow" /></a>
 
 </div>
