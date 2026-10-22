@@ -11,7 +11,7 @@ I build tools where security is a design constraint, not a feature.
 
 <div align="center">
 
-<a href="https://github.com/digiator42/Vocab-Tool"><img src="./badges/vocab-tool.svg" width="250" alt="Vocab-Tool" /></a>
+<a href="https://github.com/digiator42/Veloasm"><img src="./badges/veloasm.svg" width="250" alt="veloasm" /></a>
 <a href="https://github.com/digiator42/Vulnerable-Bottle-App"><img src="./badges/vulnerable-bottle-app.svg" width="250" alt="Vulnerable-Bottle-App" /></a>
 <a href="https://github.com/digiator42/E-Commerce-Lab"><img src="./badges/e-commerce-lab.svg" width="250" alt="E-Commerce-Lab" /></a>
 <br>
